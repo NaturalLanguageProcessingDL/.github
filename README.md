@@ -49,16 +49,9 @@ Welcome to the **NLC with DL** repository! This organization is dedicated to exp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ravij-p/NLC-DL.git
-   cd NLC-DL
+   git clone https://github.com/NaturalLanguageProcessingDL
    ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. (Optional) Set up a virtual environment:
+2. (Optional) Set up a virtual environment:
    ```bash
    python -m venv venv
    source venv/bin/activate  # For Linux/Mac
